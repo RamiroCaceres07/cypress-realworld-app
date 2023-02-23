@@ -74,6 +74,17 @@
       "balance": 75369,
       "createdAt": "2020-02-11T21:26:46.510Z",
       "modifiedAt": "2020-05-21T15:15:33.944Z"
+    },
+    {
+      "id": "6kThD4sGN",
+      "uuid": "c5ff639c-7733-4886-b0be-76e07ae5435d",
+      "firstName": "Ramiro",
+      "lastName": "Caceres",
+      "username": "ramirocaceres00",
+      "password": "Hola123",
+      "balance": 0,
+      "createdAt": "2023-02-23T18:25:06.335Z",
+      "modifiedAt": "2023-02-23T18:25:06.335Z"
     }
   ],
   "contacts": [
@@ -253,16 +264,6 @@
       "isDeleted": false,
       "createdAt": "2019-09-30T14:20:07.043Z",
       "modifiedAt": "2020-05-21T22:40:28.910Z"
-    },
-    {
-      "id": "BnFx1aBAM",
-      "uuid": "492f8922-8699-4738-96d9-fc717445be29",
-      "bankName": "The Best Bank",
-      "accountNumber": "123456789",
-      "routingNumber": "987654321",
-      "isDeleted": false,
-      "createdAt": "2022-11-30T19:27:10.571Z",
-      "modifiedAt": "2022-11-30T19:27:10.571Z"
     }
   ],
   "transactions": [
